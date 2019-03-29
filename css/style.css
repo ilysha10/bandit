@@ -1,0 +1,107 @@
+html{
+   font: 14px Arial, sans-serif;
+}
+body{
+    margin: 0;
+    background-color: #8dc63f;
+}
+.basic{
+    margin: 0 auto;
+    padding: 0 15px;
+    width: 960px;
+    background: #fff;
+}
+.header{
+    padding: 24px 0;
+}
+.header p{
+    margin: 0;
+}
+.logo{
+    float: left;
+}
+.logo b{
+    display: block;
+    font-size: 44px;
+}
+.logo i,
+.header-number i{
+    color: #5a5a5a;
+    font-size: 14px;
+}
+.logo p{
+    float: left;
+    color: #39930d;
+    font-size: 22px;
+}
+.ball{
+    float: left;
+    padding-left: 24px;
+}
+.header-number{
+    float: right;
+    color: #39930d;
+    font-size: 22px;
+    text-align: right;
+}
+.header-number i{   
+    display: block;
+}
+.football-stadium{
+    width: 100%;
+}
+.main h1{
+    margin: 0 0 15px;
+    color: #39930d;
+    font-size: 24px;
+}
+.main-content{
+    float: left;
+    padding: 24px 0;
+}
+.main-content p{
+    line-height: 21px;
+}
+.main-aside{
+    float: right;
+    line-height: 30px;
+    width: 300px;
+}
+.main-aside p{
+    margin: 0;
+    padding: 14px 18px;
+    color: #fff;
+    font-size: 18px;
+    background-color: #39930d;
+}
+.main-aside ul{
+    padding-left: 20px;
+    list-style: none;
+}
+.main-aside li a{
+    display: block;
+    color: #39930d;
+    text-transform: uppercase;
+}
+.main-aside li:hover{
+    padding-left: 20px;
+    background-color: #5a5a5a;
+}
+.main-aside a:hover{
+    color: white;
+}
+.footer{
+    margin: 0 -15px;
+    padding: 15px 14px;
+    color: white;
+    background: #39930d;
+}
+.main{
+    float: left;
+    width: 60%;
+    color:#343434;
+    font-size: 14px;
+}
+.clear{
+    clear: both;
+}
