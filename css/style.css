@@ -102,6 +102,8 @@ body{
     color:#343434;
     font-size: 14px;
 }
-.clear{
+.clear::after{
+    content: "";
+    display: block;
     clear: both;
 }
